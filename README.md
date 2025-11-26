@@ -25,7 +25,8 @@ Eco Product Insights – Size-wise distribution of eco-friendly products
 
 ##Dashboad
 
-<a href="https://github.com/SandyJay2003/Data-Analysis-Dashboard/blob/main/Dashboard%20Last%20Minute.pbix">
+<img width="1162" height="742" alt="Dashboard" src="https://github.com/user-attachments/assets/3b2df67b-1d56-4132-8137-2931280eb0df" />
+
 
 🚀 Tools & Technologies Used
 
