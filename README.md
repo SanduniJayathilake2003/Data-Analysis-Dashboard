@@ -21,10 +21,11 @@ Eco Product Insights – Size-wise distribution of eco-friendly products
 
 
 📁 Dataset
+-<a href="https://github.com/SandyJay2003/Data-Analysis-Dashboard/blob/main/BlinkIT%20Grocery%20Data.xlsx"> Dataset</a>
 
-Contains 100 product records
+##Dashboad
 
-Fields used: Product Name, Availability, Price, Category, Stock, Size, Eco Status
+<a href="https://github.com/SandyJay2003/Data-Analysis-Dashboard/blob/main/Dashboard%20Last%20Minute.pbix">
 
 🚀 Tools & Technologies Used
 
