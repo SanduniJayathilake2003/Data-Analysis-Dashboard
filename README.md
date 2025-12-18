@@ -23,7 +23,7 @@ Eco Product Insights – Size-wise distribution of eco-friendly products
 📁 Dataset
 -<a href="https://github.com/SandyJay2003/Data-Analysis-Dashboard/blob/main/BlinkIT%20Grocery%20Data.xlsx"> Dataset</a>
 
-##Dashboad
+##Dashboard
 
 <img width="1162" height="742" alt="Dashboard" src="https://github.com/user-attachments/assets/3b2df67b-1d56-4132-8137-2931280eb0df" />
 
